@@ -1,5 +1,6 @@
-node_modules
-dist
-.DS_Store
 .idea
+dist
+node_modules
+.DS_Store
+.wepycache
 yarn-error.log
