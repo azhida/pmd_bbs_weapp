@@ -1,13 +1,16 @@
 {
-  "description": "坡马代论坛微信小程序",
-  "setting": {
-    "urlCheck": true,
-    "es6": false,
-    "postcss": false,
-    "minified": false
-  },
-  "compileType": "miniprogram",
-  "appid": "wx3911954bdcaf9cf5",
-  "projectname": "pmd_bbs_weapp",
-  "miniprogramRoot": "./dist"
+	"description": "坡马代论坛微信小程序",
+	"setting": {
+		"urlCheck": false,
+		"es6": false,
+		"postcss": false,
+		"minified": false,
+		"newFeature": true,
+		"autoAudits": false
+	},
+	"compileType": "miniprogram",
+	"appid": "wx3911954bdcaf9cf5",
+	"projectname": "pmd_bbs_weapp",
+	"miniprogramRoot": "dist/",
+	"condition": {}
 }
