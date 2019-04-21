@@ -55,7 +55,7 @@
         window: {
           backgroundTextStyle: 'light',
           navigationBarBackgroundColor: '#fff',
-          navigationBarTitleText: 'pmd_bbs',
+          navigationBarTitleText: '坡马代论坛',
           navigationBarTextStyle: 'black'
         },
         tabBar: {

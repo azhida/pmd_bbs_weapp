@@ -12,7 +12,7 @@
             <form bindsubmit="submit">
                 <view class="weui-toptips weui-toptips_warn" wx:if="{{ errorMessage }}">{{ errorMessage }}</view>
 
-                <view class="weui-cells__title">pmd_bbs 手机注册</view>
+                <view class="weui-cells__title">坡马代论坛 手机注册</view>
 
                 <!-- 手机号  -->
                 <view class="weui-cells__title {{ errors.phone ? 'weui-cell_warn' : ''}}">手机号</view>

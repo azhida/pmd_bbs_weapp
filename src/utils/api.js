@@ -1,8 +1,8 @@
 import wepy from 'wepy'
 
 // 服务器接口地址
-const host = 'http://pmd_bbs.test/api'
-// const host = 'http://pmd_bbs.weilh.vip/api'
+// const host = 'http://pmd_bbs.test/api'
+const host = 'https://pmd-bbs.weilh.vip/api'
 
 // 普通请求
 const request = async (options, showLoading = true) => {
